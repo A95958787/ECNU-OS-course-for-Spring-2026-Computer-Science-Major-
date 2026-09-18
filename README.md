@@ -1,2 +1,3 @@
-# ECNU-OS-course-for-Spring-2026-Computer-Science-Major-
-Course materials, assignments, and labs for Professor Shi Liang's(石亮) OS course
+2026春华东师范大学石亮老师的操作系统课的上课资料及作业和lab
+教材是现代操作系统第四版
+lab是MIT6.S081课程的
